@@ -1,0 +1,159 @@
+{
+    "1355185865445343584": {
+        "voiceTime": 0,
+        "messageCount": 27,
+        "voiceChannels": {
+            "1355343038175772754": 0
+        },
+        "textChannels": {
+            "1336023927939661924": 14,
+            "1336023908117381212": 1,
+            "1353859156150587533": 1,
+            "1353779627239280660": 2
+        },
+        "lastVoiceJoin": 1743341183406
+    },
+    "1246949417773437142": {
+        "voiceTime": 0,
+        "messageCount": 41,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023908117381212": 2,
+            "1336355908539646012": 39
+        },
+        "lastVoiceJoin": null
+    },
+    "608244331530420237": {
+        "voiceTime": 296778,
+        "messageCount": 0,
+        "voiceChannels": {
+            "1353780251377008761": 296778
+        },
+        "textChannels": {},
+        "lastVoiceJoin": null
+    },
+    "282859044593598464": {
+        "voiceTime": 0,
+        "messageCount": 123,
+        "voiceChannels": {},
+        "textChannels": {
+            "1337390756532322335": 74,
+            "1337389479421546527": 34,
+            "1336024022080815165": 1,
+            "1337390272912560201": 3,
+            "1336024029399613541": 2,
+            "1336024030792384514": 6
+        },
+        "lastVoiceJoin": null
+    },
+    "1335333001139322903": {
+        "voiceTime": 5620070,
+        "messageCount": 39,
+        "voiceChannels": {
+            "1353780251377008761": 0,
+            "1336023909774000220": 2111809
+        },
+        "textChannels": {
+            "1336023926467465238": 37,
+            "1336023969995690027": 1
+        },
+        "lastVoiceJoin": null
+    },
+    "1042813691189534781": {
+        "voiceTime": 306804,
+        "messageCount": 0,
+        "voiceChannels": {
+            "1353780251377008761": 306804
+        },
+        "textChannels": {},
+        "lastVoiceJoin": null
+    },
+    "1355615621928194219": {
+        "voiceTime": 4999727,
+        "messageCount": 31,
+        "voiceChannels": {
+            "1336023909774000220": 4987023,
+            "1337768071326335048": 0,
+            "1353780251377008761": 12704
+        },
+        "textChannels": {
+            "1336023941172691117": 1,
+            "1336023908117381212": 1,
+            "1336355908539646012": 29
+        },
+        "lastVoiceJoin": null
+    },
+    "1326881706090696714": {
+        "voiceTime": 0,
+        "messageCount": 1,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023929344622632": 1
+        },
+        "lastVoiceJoin": null
+    },
+    "408785106942164992": {
+        "voiceTime": 0,
+        "messageCount": 1,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023969995690027": 1
+        },
+        "lastVoiceJoin": null
+    },
+    "770887977865576469": {
+        "voiceTime": 91519,
+        "messageCount": 0,
+        "voiceChannels": {
+            "1336023909774000220": 91519
+        },
+        "textChannels": {},
+        "lastVoiceJoin": null
+    },
+    "529969958294126592": {
+        "voiceTime": 0,
+        "messageCount": 20,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023926467465238": 13,
+            "1336023929344622632": 7
+        },
+        "lastVoiceJoin": null
+    },
+    "814427873292058654": {
+        "voiceTime": 0,
+        "messageCount": 28,
+        "voiceChannels": {
+            "1336023952320888967": 0
+        },
+        "textChannels": {
+            "1336023926467465238": 28
+        },
+        "lastVoiceJoin": 1743285203451
+    },
+    "738638929456005163": {
+        "voiceTime": 0,
+        "messageCount": 17,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023926467465238": 17
+        },
+        "lastVoiceJoin": null
+    },
+    "985189887403757589": {
+        "voiceTime": 0,
+        "messageCount": 1,
+        "voiceChannels": {},
+        "textChannels": {
+            "1336023926467465238": 1
+        },
+        "lastVoiceJoin": null
+    },
+    "689766089567109158": {
+        "voiceTime": 0,
+        "messageCount": 1,
+        "voiceChannels": {},
+        "textChannels": {},
+        "lastVoiceJoin": null
+    }
+}
